@@ -1,0 +1,8 @@
+C:\Users\joilma\Documents\SharpDevelop Projects\TesteVideo\TesteVideo\bin\Debug\TesteVideo.exe.config
+C:\Users\joilma\Documents\SharpDevelop Projects\TesteVideo\TesteVideo\bin\Debug\TesteVideo.exe
+C:\Users\joilma\Documents\SharpDevelop Projects\TesteVideo\TesteVideo\bin\Debug\TesteVideo.pdb
+C:\Users\joilma\Documents\SharpDevelop Projects\TesteVideo\TesteVideo\obj\Debug\TesteVideo.csprojResolveAssemblyReference.cache
+C:\Users\joilma\Documents\SharpDevelop Projects\TesteVideo\TesteVideo\obj\Debug\TesteVideo.MainForm.resources
+C:\Users\joilma\Documents\SharpDevelop Projects\TesteVideo\TesteVideo\obj\Debug\TesteVideo.csproj.GenerateResource.Cache
+C:\Users\joilma\Documents\SharpDevelop Projects\TesteVideo\TesteVideo\obj\Debug\TesteVideo.exe
+C:\Users\joilma\Documents\SharpDevelop Projects\TesteVideo\TesteVideo\obj\Debug\TesteVideo.pdb
